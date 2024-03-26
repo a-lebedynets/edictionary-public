@@ -1,4 +1,4 @@
-import { _ as _export_sfc } from ".00plugin-vue_export-helper-cc2b3d55.js";
+import { _ as _export_sfc } from "./00plugin-vue_export-helper-cc2b3d55.js";
 import { r as resolveComponent, o as openBlock, c as createElementBlock, a as createVNode, w as withCtx, b as createBaseVNode, m as mergeProps, d as createTextVNode } from "./index-b4ccc58a.js";
 const _sfc_main = {};
 const _hoisted_1 = { class: "d-flex flex-column align-center justify-center ga-4" };
